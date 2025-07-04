@@ -1,0 +1,4 @@
+npm init
+touch index.js 
+npm install cookie-parser express mongoose
+npm install --save-dev bcrypt cors dotenv jsonwebtoken nodemon
